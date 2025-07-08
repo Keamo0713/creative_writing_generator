@@ -1,5 +1,6 @@
 streamlit
+python-dotenv
 # Add any other libraries your app uses, e.g.:
 # pandas
 # numpy
-# matplotlib
+# requests
